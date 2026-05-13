@@ -1,16 +1,25 @@
-## Hi there 👋
+# Lucas Melo
 
-<!--
-**LucasMeloPedro/LucasMeloPedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical Engineer with specialization in Data Science and Machine Learning, focused on applying analytics and Data Science to engineering problems.
 
-Here are some ideas to get you started:
+## Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Power BI
+- Pandas
+- Machine Learning
+- Data Analysis
+- Git
+
+## Areas of Interest
+
+- Industrial Analytics
+- Predictive Maintenance
+- Process Optimization
+- Machine Learning
+- Industry 4.0
+- Data Science applied to Engineering
+
+## Featured Projects
+
+[Market overview of INMETRO certification bodies](https://github.com/LucasMeloPedro/market_share_OCP)

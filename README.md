@@ -7,7 +7,7 @@ Mechanical Engineer with specialization in Data Science and Machine Learning, fo
 - Python
 - Power BI
 - Pandas
-- Machine Learning
+- Scikit-learn
 - Data Analysis
 - Git
 
